@@ -10,7 +10,6 @@ class Solution {
                 return arr[i];
             }
         }
-        
         return -1;
     }
 }
